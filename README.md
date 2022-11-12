@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Danula Balasooriya</h1>
-<h3 align="center">Enthusiastic developer looking forward to learn</h3>
+<h3 align="center">Enthusiastic developer looking forward to learn more</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danulatb&label=Profile%20views&color=0e75b6&style=flat" alt="danulatb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danulatb" alt="danulatb" /></a> </p>
 
-- 🌱 I’m currently learning **JAVASE,JavaEE,JS,CSS3,HTML,**
+- 🌱 I’m currently learning **JAVASE , JavaEE , JS , CSS3 , HTML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
