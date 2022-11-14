@@ -45,7 +45,7 @@
 </td><td valign="top" width="33%">
 
 <div align="center" >  
-<p>&nbsp;<img style="margin-top :40px" align="center" src="https://github-readme-stats.vercel.app/api?username=danulatb&show_icons=true&locale=en" alt="danulatb" /></p>
+<p>&nbsp;<img style="margin-top :100px" align="center" src="https://github-readme-stats.vercel.app/api?username=danulatb&show_icons=true&locale=en" alt="danulatb" /></p>
 
 </div>
 
