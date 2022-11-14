@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danulatb&label=Profile%20views&color=0e75b6&style=flat" alt="danulatb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danulatb" alt="danulatb" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danulatb" alt="danulatb" /></a> </p>
 
 - 🌱 I’m currently learning **JAVASE , JavaEE , JS , CSS3 , HTML**
 
@@ -27,7 +27,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div style="display:flex; justify-content: space-evenly !important" align="center" >  
+<div align="center" >  
 <a  href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -45,3 +45,5 @@
 </td><td valign="top" width="33%">
 
 <p>&nbsp;<img style="margin-top :40px" align="center" src="https://github-readme-stats.vercel.app/api?username=danulatb&show_icons=true&locale=en" alt="danulatb" /></p>
+
+</td>
